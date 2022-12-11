@@ -1,6 +1,8 @@
 ## What does this do?
 This Automatic1111 script allows you to quickly change settings in the txt2img and img2img tabs of the Web UI using a configurable dropdown.
 
+Only works with English localization.
+
 ## Screenshots
 The new Config Presets dropdown in the image gallery
 
