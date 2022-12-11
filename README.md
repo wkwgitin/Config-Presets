@@ -3,15 +3,19 @@ This Automatic1111 script allows you to quickly change settings in the txt2img a
 
 ## Screenshots
 The new dropdown in the image gallery
+
 ![gallery](https://i.imgur.com/cnxuyzc.jpg)
 
 Dropdown values (configurable)
+
 ![dropdown](https://i.imgur.com/B1eMWAw.jpg)
 
 Script
+
 ![script](https://i.imgur.com/38nssdr.jpg)
 
 Screenshot of config_presets.json
+
 ![config](https://i.imgur.com/iJ13uhU.jpg)
 
 ## Installation
