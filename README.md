@@ -5,6 +5,7 @@ This Automatic1111 script allows you to quickly change settings in the txt2img a
 ![gallery](https://i.imgur.com/cnxuyzc.jpg)
 ![dropdown](https://i.imgur.com/B1eMWAw.jpg)
 ![script](https://i.imgur.com/38nssdr.jpg)
+![config](https://i.imgur.com/iJ13uhU.jpg)
 
 ## Installation
 * Click the green Code button, download as zip.
