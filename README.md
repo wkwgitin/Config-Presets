@@ -2,7 +2,9 @@
 This Automatic1111 script allows you to quickly change settings in the txt2img and img2img tabs of the Web UI using a configurable dropdown.
 
 ## Screenshots
-WIP
+![gallery](https://i.imgur.com/cnxuyzc.jpg)
+![dropdown](https://i.imgur.com/B1eMWAw.jpg)
+![script](https://i.imgur.com/38nssdr.jpg)
 
 ## Installation
 * Click the green Code button, download as zip.
