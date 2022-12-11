@@ -1,6 +1,6 @@
 # Config Presets script for Automatic1111
-# Version: 0.1
-# Release date: TBD
+# Version: 1.0
+# Release date: 12/11/2022
 # Author: Zyin
 
 import modules.scripts as scripts
