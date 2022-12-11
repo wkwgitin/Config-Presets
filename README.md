@@ -8,8 +8,7 @@ The new Config Presets dropdown in the image gallery
 
 ![gallery](https://i.imgur.com/cnxuyzc.jpg)
 
-Dropdown values (configurable with the json file)
-Selecting one of these will apply its corresponding values to the Web UI
+Dropdown values (configurable with the json file), selecting one of these will apply its corresponding values to the Web UI
 
 ![dropdown](https://i.imgur.com/B1eMWAw.jpg)
 
